@@ -11,10 +11,11 @@ flowchart LR
     
     website(["Website"])
     wallet(["Wallet"])
-    studio(["Tokenisation Studio"])
+    studio(["Tokenisation<br>Studio"])
+    gallery(["Gallery"])
     faucet(["Faucet"])
     exchange(["Exchange"])
 
-    start --> website & wallet & studio & faucet & exchange
+    start --> website & wallet & studio & gallery & faucet & exchange
 
 ```
