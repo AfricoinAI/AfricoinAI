@@ -11,7 +11,7 @@ flowchart LR
     
     website(["Website"])
     wallet(["Wallet"])
-    studio(["Tokenisation<br>Studio"])
+    studio(["Tokenisation Studio"])
     gallery(["Gallery"])
     faucet(["Faucet"])
     exchange(["Exchange"])
