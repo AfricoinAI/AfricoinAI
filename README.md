@@ -16,6 +16,6 @@ flowchart LR
     faucet(["Faucet"])
     exchange(["Exchange"])
 
-    start --> website & wallet & studio & gallery & faucet & exchange
+    start --> website & studio & gallery & wallet & faucet & exchange
 
 ```
