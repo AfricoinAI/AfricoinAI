@@ -3,7 +3,7 @@
 
 ---
 config:
-  theme: redux
+  theme: normal
   layout: dagre
 ---
 flowchart LR
