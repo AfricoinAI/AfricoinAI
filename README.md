@@ -1,22 +1,24 @@
+# Africoin Services
 ```mermaid
 
 ---
 config:
   theme: redux
   layout: dagre
-  look: handDrawn
 ---
 flowchart LR
     start["Africoin"]
     
     website(["Website"])
-    wallet(["Wallet"])
-    dashboard(["Regulator Dashboard"])
     studio(["Tokenisation Studio"])
+    regulator_dashboard(["Regulator Dashboard"])
+    admin_dashboard(["Admin Dashboard"])
     gallery(["Gallery"])
+    ai_services(["Agent Services"])
+    wallet(["Wallet"])
     faucet(["Faucet"])
     exchange(["Exchange"])
 
-    start --> website & studio & dashboard & gallery & wallet & faucet & exchange
+    start --> website & studio & regulator_dashboard & admin_dashboard & gallery & ai_services & wallet & faucet & exchange
 
 ```
