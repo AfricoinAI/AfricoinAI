@@ -1,4 +1,4 @@
-# Africoin Services
+# Africoin
 ```mermaid
 
 ---
@@ -34,3 +34,24 @@ flowchart LR
     start --> website & studio & regulator_dashboard & admin_dashboard & workflows & gallery & ai_services & wallet & faucet & exchange
 
 ```
+
+## Website
+TBD
+
+## Tokenisation Studio
+TBD
+
+## Regulator Dashboard
+TBD
+
+## Admin Dashboard
+TBD
+
+## Workflow Catalog
+TBD
+
+## Gallery
+TBD
+
+## Agent Services
+TBD
