@@ -9,27 +9,27 @@ config:
 flowchart TD
     start["Africoin"]
     
-    website(["Website"])
+    website(["Company<br>Website"])
     click website "https://github.com/AfricoinAI/website" _blank
 
-    studio(["Tokenisation Studio"])
+    studio(["Tokenisation<br>Studio"])
     click studio "https://github.com/AfricoinAI/tokenisation-studio" _blank
 
-    regulator_dashboard(["Regulator Dashboard"])
+    regulator_dashboard(["Regulator<br>Dashboard"])
 
-    admin_dashboard(["Admin Dashboard"])
+    admin_dashboard(["Admin<br>Dashboard"])
 
-    workflows(["Workflow Catalog"])
+    workflows(["Workflow<br>Catalog"])
 
-    gallery(["Gallery"])
+    gallery(["Gallery<br>Web App"])
 
-    ai_services(["Agent Services"])
+    ai_services(["Agent<br>Services"])
 
-    wallet(["Wallet"])
+    wallet(["Wallet<br>App"])
 
-    faucet(["Faucet"])
+    faucet(["Faucet<br>Web App"])
 
-    exchange(["Exchange"])
+    exchange(["RWA<br>Exchange"])
 
     start --> website & studio & regulator_dashboard & admin_dashboard & workflows & gallery & ai_services & wallet & faucet & exchange
 
