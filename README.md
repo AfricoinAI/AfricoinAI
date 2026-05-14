@@ -19,6 +19,8 @@ flowchart LR
 
     admin_dashboard(["Admin Dashboard"])
 
+    workflows(["Workflow Catalog"])
+
     gallery(["Gallery"])
 
     ai_services(["Agent Services"])
@@ -29,6 +31,6 @@ flowchart LR
 
     exchange(["Exchange"])
 
-    start --> website & studio & regulator_dashboard & admin_dashboard & gallery & ai_services & wallet & faucet & exchange
+    start --> website & studio & regulator_dashboard & admin_dashboard & workflows & gallery & ai_services & wallet & faucet & exchange
 
 ```
