@@ -25,7 +25,7 @@ flowchart TD
 
     ai_services(["Agent<br>Services"])
 
-    wallet(["Wallet<br>App"])
+    wallet(["Wallet<br>Mobile App"])
 
     faucet(["Faucet<br>Web App"])
 
@@ -35,6 +35,7 @@ flowchart TD
 
 ```
 
+  
 ### Website
 TBD
 
@@ -56,8 +57,8 @@ TBD
 ### Agent Services
 TBD
 
-### Wallet
+### Wallet Mobile App
 TBD
 
-### Exchange
+### (RWA) Exchange
 TBD
