@@ -6,7 +6,7 @@ config:
   theme: normal
   layout: dagre
 ---
-flowchart LR
+flowchart TD
     start["Africoin"]
     
     website(["Website"])
@@ -35,23 +35,29 @@ flowchart LR
 
 ```
 
-## Website
+### Website
 TBD
 
-## Tokenisation Studio
+### Tokenisation Studio
 TBD
 
-## Regulator Dashboard
+### Regulator Dashboard
 TBD
 
-## Admin Dashboard
+### Admin Dashboard
 TBD
 
-## Workflow Catalog
+### Workflow Catalog
 TBD
 
-## Gallery
+### Gallery
 TBD
 
-## Agent Services
+### Agent Services
+TBD
+
+### Wallet
+TBD
+
+### Exchange
 TBD
