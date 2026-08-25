@@ -1,11 +1,6 @@
 # Africoin
 ```mermaid
 
----
-config:
-  theme: normal
-  layout: dagre
----
 flowchart TD
     start["Africoin"]
     
